@@ -1,6 +1,6 @@
 {
-    "issuer": "https://",
-    "jwks_uri": "https:///keys.json",
+    "issuer": "https://raw.githubusercontent.com/polikeiji/test-oidc/main/",
+    "jwks_uri": "https://raw.githubusercontent.com/polikeiji/test-oidc/main/keys.json",
     "authorization_endpoint": "urn:kubernetes:programmatic_authorization",
     "response_types_supported": [
         "id_token"
